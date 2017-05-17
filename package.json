@@ -2,7 +2,7 @@
     "name": "gulp-butternut",
     "description": "Minify files with butternut.",
     "version": "1.0.0",
-    "author": "Erik Zettersten <erik@zettersten.com>",
+    "author": "Erik Zettersten <erik@emoney.com>",
     "bugs": "https://github.com/etsms/gulp-butternut/issues",
     "dependencies": {
         "gulplog": "^1.0.0",
